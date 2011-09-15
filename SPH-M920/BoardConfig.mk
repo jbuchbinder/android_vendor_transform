@@ -23,4 +23,5 @@ LOCAL_PATH := $(call my-dir)
 #
 # Hack, because i'm lazy :)
 #
-include device/samsung/spica/AndroidBoard.mk
+include device/samsung/transform/BoardConfig.mk
+

@@ -1,5 +1,5 @@
 #
-# system.prop for spica
+# system.prop for transform
 #
 
 rild.libpath=/system/lib/libsec-ril.so
